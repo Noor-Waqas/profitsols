@@ -1,7 +1,7 @@
 import NavBar from './components/navbar/navBar'
 import Fotter from './components/fotter/fotter'
 import Banner from './components/introBanner'
-import ProfitList from './components/fotter/ProfitSolsList/profit_sols_list'
+import ProfitList from './components/ProfitSolsList/profit_sols_list'
 function App() {
 
   return (
